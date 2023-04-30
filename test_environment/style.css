@@ -1,0 +1,17 @@
+.option {
+    background-color: #ddd;
+    border: none;
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+  }
+  
+  .option.incorrect {
+    background-color: #ff9999;
+  }
+  
+  .feedback {
+    font-size: 24px;
+    color: red;
+    margin-left: 5px;
+  }
