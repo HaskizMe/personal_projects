@@ -21,7 +21,7 @@ options.forEach(option => {
         option.appendChild(x);
         option.disabled = true;
         if(incorrect_counter > 1){
-            alert('Wow you got ' + incorrect_counter + ' wrong you kinda suck but its alright because youre hot')
+            alert('Wow you got ' + incorrect_counter + ' wrong you kinda suck but its alright because youll get it next time.')
         }
         else{
             alert('Ok youre good I admit')
